@@ -4,10 +4,10 @@ This project is example of `highcharts-react-native`, it includes of `react-nati
 
 
 <span align="center">
-  <img src="https://github.com/hungdev/eact-native-scatter-3d-example/blob/master/assets/Ios.png?raw=true" width=300/>
+  <img src="https://github.com/hungdev/react-native-scatter-3d-example/blob/master/assets/Ios.png?raw=true" width=300/>
 </span>
 <span align="center">
-  <img src="https://github.com/hungdev/eact-native-scatter-3d-example/blob/master/assets/Android.png?raw=true" width=300/>
+  <img src="https://github.com/hungdev/react-native-scatter-3d-example/blob/master/assets/Android.png?raw=true" width=300/>
 </span>
 
 During the installation I encountered an error related `expo-file-system.downloadAsync` and i resolved this error by doing follow steps in [this comment](https://github.com/highcharts/highcharts-react-native/issues/91#issuecomment-676261777)
